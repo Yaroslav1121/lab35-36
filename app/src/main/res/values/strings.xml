@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">lab35</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="go_to_second_fragment">Go to Second Fragment</string>
+    <string name="go_to_third_fragment">Go to third fragment</string>
+    <string name="go_to_first_fragment">Go to first fragment</string>
+    <string name="this_is_first_fragment">This Is First Fragment</string>
+    <string name="this_is_third_fragment">This Is Third Fragment</string>
+    <string name="this_is_second_fragment">This Is Second Fragment</string>
+</resources>

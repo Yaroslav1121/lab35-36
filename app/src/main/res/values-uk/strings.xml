@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">lab35</string>
+    <string name="hello_blank_fragment">Привіт, порожній фрагмент</string>
+    <string name="go_to_second_fragment">Перейти до Другого Фрагменту</string>
+    <string name="go_to_third_fragment">Перейти до Третього Фрагменту</string>
+    <string name="go_to_first_fragment">Перейти до Першого Фрагменту</string>
+    <string name="this_is_first_fragment">Це Перший Фрагмент</string>
+    <string name="this_is_third_fragment">Це Третій Фрагмент</string>
+    <string name="this_is_second_fragment">Це Другий Фрагмент</string>
+</resources>
